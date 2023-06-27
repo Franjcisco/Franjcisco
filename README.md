@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Franjcisco</h1>
-<h3 align="center">I'm New here</h3>
 
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
