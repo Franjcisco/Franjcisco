@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franjcisco&label=Profile%20views&color=0e75b6&style=flat" alt="franjcisco" /> </p>
 
-
+[![Github stats](https://github-readme-stats-deploy-franjcisco.vercel.app/api?username=franjcisco&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/franjcisco)
 
 
 
